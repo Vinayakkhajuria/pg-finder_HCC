@@ -32,10 +32,12 @@ body {
     text-align: center;
     font-size: 22px;
   }
-  
+ 
   .user-box {
-    position: relative;
-  }
+    
+    position: relative; 
+    font-size: 0;
+  } 
   
   .user-box input {
     width: 100%;
